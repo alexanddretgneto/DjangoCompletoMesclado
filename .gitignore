@@ -3,10 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-.gitattributes
+
 DjangoWebProject1.pyproj
 DjangoWebProject1.sln
-DjangoWebProject1/
+
 
 
 
